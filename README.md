@@ -13,3 +13,6 @@
 
 ![Intro to HTML and CSS](task_html_css_intro/screenshot.png)
 ![Intro to HTML and CSS](task_html_css_intro/screenshot2.png)
+
+## JS Basics
+![JS Basics](task_js_basics/)
