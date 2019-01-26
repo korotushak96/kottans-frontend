@@ -16,8 +16,8 @@
 
 ## Responsive Web Design
 
-![Responsive Web Design](task_responsive_web_design/screenshot.png)
-![Responsive Web Design](task_responsive_web_design/screenshot.png)
+![Responsive Web Design](task_responsive_web_design/screenshot1.png)
+![Responsive Web Design](task_responsive_web_design/screenshot2.png)
 
 ## JS Basics
 ![JS Basics](task_js_basics/)
