@@ -14,5 +14,11 @@
 ![Intro to HTML and CSS](task_html_css_intro/screenshot.png)
 ![Intro to HTML and CSS](task_html_css_intro/screenshot2.png)
 
+## Responsive Web Design
+
+![Responsive Web Design](task_responsive_web_design/screenshot.png)
+![Responsive Web Design](task_responsive_web_design/screenshot.png)
+
 ## JS Basics
 ![JS Basics](task_js_basics/)
+
