@@ -20,5 +20,9 @@
 ![Responsive Web Design](task_responsive_web_design/screenshot2.png)
 
 ## JS Basics
-![JS Basics](task_js_basics/)
+[JS Basics](task_js_basics/)
 
+## DOM
+
+![JS-DOM](task_js_dom/screenshot1.png)
+![JS-DOM](task_js_dom/screenshot2.png)
