@@ -26,3 +26,6 @@
 
 ![JS-DOM](task_js_dom/screenshot1.png)
 ![JS-DOM](task_js_dom/screenshot2.png)
+
+## Object Oriented JS
+![JS-OOP](task_js_oop/screenshot.png)
